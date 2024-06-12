@@ -27,4 +27,9 @@ data set contain customer id, gender, age, driving license, region code, previou
 There is no duplicated data
 
 # Conclusion
-In this project small study on insurance dataset is conducted. In this project follows Data Understanding, Data Pre-Processing, Data Wrangling, Data Encoding, Data Visualization, EDA, Feature engg, feature selectiom , modeling , evaluation and Comment on the Business Problem to effective solution. This Anakysis concludes Male and Female are equal chance of taking insurance, customer who has Driving license more than 90% are interested in insurance, vehicle age 1-2 are shown interest to buy insurance. Finaly concluded the random forest classifiers is the best model after avaluation is concluded.
+In this project small study on insurance dataset is conducted. In this project follows Data Understanding, Data Pre-Processing, Data Wrangling, Data Encoding, Data Visualization, EDA, Feature engg, feature selectiom , modeling , evaluation and Comment on the Business Problem to effective solution. This Analysis concludes
+
+- Male and Female are equal chance of taking insurance,
+- customer who has Driving license more than 90% are interested in insurance,
+- vehicle age 1-2 are shown interest to buy insurance.
+- From the 3 model without feature selection, hyperparameter tunning and daimention reduction evaluated good result. Accuracy score of model is 95 %
